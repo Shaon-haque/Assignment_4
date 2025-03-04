@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.List;
 
-public class Main {
+public class Interaction {
     static WebDriver driver;
 
     public static void main(String[] args) {
